@@ -3,8 +3,8 @@
 [![npm](https://img.shields.io/npm/dt/nativescript-platform.svg?label=npm%20d%2fls)](https://www.npmjs.com/package/nativescript-platform)
 [![Twitter Follow](https://img.shields.io/twitter/follow/congocart.svg?style=social&label=Follow%20me)](https://twitter.com/congocart)
 
-# nativescript-platform
-A NativeScript plugin to easily deal with and detect which platform you are on
+# nativescript-platform-free
+A NativeScript plugin to easily deal with and detect which platform you are on. Since the original plugin requires a subscription now, this plugin is my attempt to maintain it to the point where it does not break.
 
 ## Developed by
 [![MasterTech](https://plugins.nativescript.rocks/i/mtns.png)](https://plugins.nativescript.rocks/mastertech-nstudio)
