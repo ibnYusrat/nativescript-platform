@@ -1,7 +1,6 @@
 <a href="https://proplugins.org"><img src="unmaintained.svg" height="30px" width="100%"></a>
 
-# NativeScript-Platform
-
+A NativeScript plugin to easily deal with and detect which platform you are on. Since the original plugin requires a subscription now, this plugin is my attempt to maintain it to the point where it does not break.
 
 <p align="center"><a href="https://proplugins.org"><img src="https://proplugins.org/logos/logo.png" width="400"  /></a></p>
 
