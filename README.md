@@ -1,10 +1,10 @@
-<a href="https://proplugins.org"><img src="src/unmaintained.svg" height="30px" width="100%"></a>
-
 # NativeScript-Platform
 
 
-<p align="center"><a href="https://proplugins.org"><img src="https://proplugins.org/logos/logo.png" width="400"  /></a></p>
+## Developed by
+[![MasterTech](https://plugins.nativescript.rocks/i/mtns.png)](https://plugins.nativescript.rocks/mastertech-nstudio)
 
-This version is completely unsupported and untested on NativeScript 6.  Please upgrade your plugin to the tested, supported and maintained version. 
 
-Documentation for this plugin is located at <a href="https://npm.proplugins.org/-/web/detail/@proplugins/nativescript-platform">here</a>
+
+## Documentation
+The [documentation](src/README.md) for the plugin is located in the [src folder](src).
